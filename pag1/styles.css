@@ -1,0 +1,500 @@
+.body,
+.body * {
+  box-sizing: border-box;
+}
+.body {
+  background: #ffeecf;
+  width: 1415px;
+  height: 1193px;
+  position: relative;
+}
+.footer {
+  background: #ffeecf;
+  width: 1415px;
+  height: 40px;
+  position: absolute;
+  left: 0px;
+  top: 1153px;
+}
+.contacto-email-iwehjfoiwehfoi-telefono-7649747648 {
+  color: #000000;
+  text-align: left;
+  font: 400 12px "Inter", sans-serif;
+  position: absolute;
+  left: 87px;
+  top: 3px;
+  width: 582px;
+  height: 16px;
+}
+.agrega-la-ubicaci-n-de-tu-audiencia-en-el-post-3 {
+  width: 78px;
+  height: 66px;
+  position: absolute;
+  left: 651px;
+  top: -26px;
+}
+.boton-14 {
+  width: 93px;
+  height: 27px;
+  position: static;
+}
+.rectangle-3 {
+  background: #f5f5f5;
+  border-radius: 40px;
+  width: 93px;
+  height: 27px;
+  position: absolute;
+  left: 1170px;
+  top: 7px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.inicio {
+  color: #000000;
+  text-align: center;
+  font: 400 12px "Inter", sans-serif;
+  position: absolute;
+  left: 1188px;
+  top: 7px;
+  width: 57.69px;
+  height: 27px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ejemplos {
+  background: #f8eee5;
+  width: 1387px;
+  height: 611px;
+  position: absolute;
+  left: 14px;
+  top: 516px;
+}
+.ejemplo-6 {
+  background: #ffffff;
+  width: 251px;
+  height: 231px;
+  position: absolute;
+  left: 1059px;
+  top: 340px;
+}
+.group-2 {
+  width: 108px;
+  height: 39px;
+  position: static;
+}
+.rectangle-32 {
+  background: #f5f5f5;
+  border-radius: 40px;
+  width: 108px;
+  height: 39px;
+  position: absolute;
+  left: 72px;
+  top: 173px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.texto {
+  color: #000000;
+  text-align: center;
+  font: 400 12px "Inter", sans-serif;
+  position: absolute;
+  left: 94px;
+  top: 173px;
+  width: 67px;
+  height: 39px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.p-gina-de-restaurante {
+  color: #000000;
+  text-align: left;
+  font: 400 12px "Inter", sans-serif;
+  position: absolute;
+  left: 66px;
+  top: 153px;
+  width: 155px;
+  height: 20px;
+}
+.gato-1 {
+  border-radius: 10px;
+  width: 172px;
+  height: 118px;
+  position: absolute;
+  left: 40px;
+  top: 19px;
+}
+.ejemplo-5 {
+  background: #ffffff;
+  width: 251px;
+  height: 231px;
+  position: absolute;
+  left: 568px;
+  top: 340px;
+}
+.rectangle-33 {
+  background: #f5f5f5;
+  border-radius: 40px;
+  width: 108px;
+  height: 39px;
+  position: absolute;
+  left: 77px;
+  top: 171px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.texto2 {
+  color: #000000;
+  text-align: center;
+  font: 400 12px "Inter", sans-serif;
+  position: absolute;
+  left: 99px;
+  top: 171px;
+  width: 67px;
+  height: 39px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.p-gina-de-cursos {
+  color: #000000;
+  text-align: left;
+  font: 400 12px "Inter", sans-serif;
+  position: absolute;
+  left: 76px;
+  top: 151px;
+  width: 110px;
+  height: 20px;
+}
+.gato-12 {
+  border-radius: 10px;
+  width: 172px;
+  height: 118px;
+  position: absolute;
+  left: 40px;
+  top: 17px;
+}
+.ejemplo-4 {
+  background: #ffffff;
+  width: 251px;
+  height: 231px;
+  position: absolute;
+  left: 77px;
+  top: 340px;
+}
+.rectangle-34 {
+  background: #f5f5f5;
+  border-radius: 40px;
+  width: 108px;
+  height: 39px;
+  position: absolute;
+  left: 72px;
+  top: 171px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.texto3 {
+  color: #000000;
+  text-align: center;
+  font: 400 12px "Inter", sans-serif;
+  position: absolute;
+  left: 94px;
+  top: 171px;
+  width: 67px;
+  height: 39px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.p-gina-de-inversi-n-crypto {
+  color: #000000;
+  text-align: left;
+  font: 400 12px "Inter", sans-serif;
+  position: absolute;
+  left: 49px;
+  top: 151px;
+  width: 155px;
+  height: 20px;
+}
+.gato-13 {
+  border-radius: 10px;
+  width: 172px;
+  height: 118px;
+  position: absolute;
+  left: 40px;
+  top: 18px;
+}
+.ejemplo-3 {
+  background: #ffffff;
+  width: 251px;
+  height: 231px;
+  position: absolute;
+  left: 1059px;
+  top: 29px;
+}
+.group-3 {
+  width: 108px;
+  height: 39px;
+  position: static;
+}
+.p-gina-de-productos-inform-ticos {
+  color: #000000;
+  text-align: left;
+  font: 400 12px "Inter", sans-serif;
+  position: absolute;
+  left: calc(50% - 91.5px);
+  top: 151px;
+  width: 198px;
+  height: 20px;
+}
+.gato-14 {
+  border-radius: 10px;
+  width: 172px;
+  height: 118px;
+  position: absolute;
+  left: 40px;
+  top: 18px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.ejemplo-2 {
+  background: #ffffff;
+  width: 251px;
+  height: 231px;
+  position: absolute;
+  left: 568px;
+  top: 29px;
+}
+.p-gina-de-flores {
+  color: #000000;
+  text-align: left;
+  font: 400 12px "Inter", sans-serif;
+  position: absolute;
+  left: 76px;
+  top: 151px;
+  width: 104px;
+  height: 20px;
+}
+.ejemplo-1 {
+  background: #ffffff;
+  width: 251px;
+  height: 231px;
+  position: absolute;
+  left: 77px;
+  top: 29px;
+}
+.group-1 {
+  width: 108px;
+  height: 39px;
+  position: static;
+}
+.rectangle-35 {
+  background: #f5f5f5;
+  border-radius: 40px;
+  width: 108px;
+  height: 39px;
+  position: absolute;
+  left: 71px;
+  top: 171px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.texto4 {
+  color: #000000;
+  text-align: center;
+  font: 400 12px "Inter", sans-serif;
+  position: absolute;
+  left: 93px;
+  top: 171px;
+  width: 67px;
+  height: 39px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.p-gina-de-mascotas {
+  color: #000000;
+  text-align: left;
+  font: 400 12px "Inter", sans-serif;
+  position: absolute;
+  left: 72px;
+  top: 151px;
+  width: 140px;
+  height: 20px;
+}
+.presentacion-2 {
+  background: #ffffff;
+  width: 1387px;
+  height: 222px;
+  position: absolute;
+  left: 14px;
+  top: 285px;
+}
+.agrega-la-ubicaci-n-de-tu-audiencia-en-el-post-2 {
+  width: 1387px;
+  height: 222px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.por-qu-elegir-eccomerce-variedad-de-plantillas-ofrecemos-una-amplia-variedad-de-plantillas-cuidadosamente-dise-adas-para-satisfacer-tus-necesidades-desde-sitios-web-corporativos-hasta-tiendas-en-l-nea-y-blogs-creativos-personalizaci-n-f-cil-nuestro-intuitivo-editor-te-permite-personalizar-y-modificar-elementos-como-colores-tipograf-a-im-genes-y-m-s-no-se-requieren-conocimientos-t-cnicos-responsive-y-moderno-todas-nuestras-plantillas-son-responsivas-lo-que-significa-que-tu-sitio-se-ver-incre-ble-en-cualquier-dispositivo-desde-computadoras-de-escritorio-hasta-tel-fonos-m-viles-soporte-amigable-estamos-aqu-para-ayudarte-en-cada-paso-del-proceso-si-tienes-alguna-pregunta-o-necesitas-asistencia-nuestro-equipo-de-soporte-amigable-est-a-tu-disposici-n {
+  color: #000000;
+  text-align: left;
+  font: 400 12px "Inter", sans-serif;
+  position: absolute;
+  left: 676px;
+  top: 6px;
+  width: 583px;
+  height: 211px;
+}
+.por-qu-elegir-eccomerce-variedad-de-plantillas-ofrecemos-una-amplia-variedad-de-plantillas-cuidadosamente-dise-adas-para-satisfacer-tus-necesidades-desde-sitios-web-corporativos-hasta-tiendas-en-l-nea-y-blogs-creativos-personalizaci-n-f-cil-nuestro-intuitivo-editor-te-permite-personalizar-y-modificar-elementos-como-colores-tipograf-a-im-genes-y-m-s-no-se-requieren-conocimientos-t-cnicos-responsive-y-moderno-todas-nuestras-plantillas-son-responsivas-lo-que-significa-que-tu-sitio-se-ver-incre-ble-en-cualquier-dispositivo-desde-computadoras-de-escritorio-hasta-tel-fonos-m-viles-soporte-amigable-estamos-aqu-para-ayudarte-en-cada-paso-del-proceso-si-tienes-alguna-pregunta-o-necesitas-asistencia-nuestro-equipo-de-soporte-amigable-est-a-tu-disposici-n-span {
+  color: #000000;
+  font: 400 12px "Inter", sans-serif;
+}
+.por-qu-elegir-eccomerce-variedad-de-plantillas-ofrecemos-una-amplia-variedad-de-plantillas-cuidadosamente-dise-adas-para-satisfacer-tus-necesidades-desde-sitios-web-corporativos-hasta-tiendas-en-l-nea-y-blogs-creativos-personalizaci-n-f-cil-nuestro-intuitivo-editor-te-permite-personalizar-y-modificar-elementos-como-colores-tipograf-a-im-genes-y-m-s-no-se-requieren-conocimientos-t-cnicos-responsive-y-moderno-todas-nuestras-plantillas-son-responsivas-lo-que-significa-que-tu-sitio-se-ver-incre-ble-en-cualquier-dispositivo-desde-computadoras-de-escritorio-hasta-tel-fonos-m-viles-soporte-amigable-estamos-aqu-para-ayudarte-en-cada-paso-del-proceso-si-tienes-alguna-pregunta-o-necesitas-asistencia-nuestro-equipo-de-soporte-amigable-est-a-tu-disposici-n-span2 {
+  color: #000000;
+  font: 400 12px "Inter", sans-serif;
+}
+.por-qu-elegir-eccomerce-variedad-de-plantillas-ofrecemos-una-amplia-variedad-de-plantillas-cuidadosamente-dise-adas-para-satisfacer-tus-necesidades-desde-sitios-web-corporativos-hasta-tiendas-en-l-nea-y-blogs-creativos-personalizaci-n-f-cil-nuestro-intuitivo-editor-te-permite-personalizar-y-modificar-elementos-como-colores-tipograf-a-im-genes-y-m-s-no-se-requieren-conocimientos-t-cnicos-responsive-y-moderno-todas-nuestras-plantillas-son-responsivas-lo-que-significa-que-tu-sitio-se-ver-incre-ble-en-cualquier-dispositivo-desde-computadoras-de-escritorio-hasta-tel-fonos-m-viles-soporte-amigable-estamos-aqu-para-ayudarte-en-cada-paso-del-proceso-si-tienes-alguna-pregunta-o-necesitas-asistencia-nuestro-equipo-de-soporte-amigable-est-a-tu-disposici-n-span3 {
+  color: #000000;
+  font: 400 12px "Inter", sans-serif;
+}
+.por-qu-elegir-eccomerce-variedad-de-plantillas-ofrecemos-una-amplia-variedad-de-plantillas-cuidadosamente-dise-adas-para-satisfacer-tus-necesidades-desde-sitios-web-corporativos-hasta-tiendas-en-l-nea-y-blogs-creativos-personalizaci-n-f-cil-nuestro-intuitivo-editor-te-permite-personalizar-y-modificar-elementos-como-colores-tipograf-a-im-genes-y-m-s-no-se-requieren-conocimientos-t-cnicos-responsive-y-moderno-todas-nuestras-plantillas-son-responsivas-lo-que-significa-que-tu-sitio-se-ver-incre-ble-en-cualquier-dispositivo-desde-computadoras-de-escritorio-hasta-tel-fonos-m-viles-soporte-amigable-estamos-aqu-para-ayudarte-en-cada-paso-del-proceso-si-tienes-alguna-pregunta-o-necesitas-asistencia-nuestro-equipo-de-soporte-amigable-est-a-tu-disposici-n-span4 {
+  color: #000000;
+  font: 400 12px "Inter", sans-serif;
+}
+.por-qu-elegir-eccomerce-variedad-de-plantillas-ofrecemos-una-amplia-variedad-de-plantillas-cuidadosamente-dise-adas-para-satisfacer-tus-necesidades-desde-sitios-web-corporativos-hasta-tiendas-en-l-nea-y-blogs-creativos-personalizaci-n-f-cil-nuestro-intuitivo-editor-te-permite-personalizar-y-modificar-elementos-como-colores-tipograf-a-im-genes-y-m-s-no-se-requieren-conocimientos-t-cnicos-responsive-y-moderno-todas-nuestras-plantillas-son-responsivas-lo-que-significa-que-tu-sitio-se-ver-incre-ble-en-cualquier-dispositivo-desde-computadoras-de-escritorio-hasta-tel-fonos-m-viles-soporte-amigable-estamos-aqu-para-ayudarte-en-cada-paso-del-proceso-si-tienes-alguna-pregunta-o-necesitas-asistencia-nuestro-equipo-de-soporte-amigable-est-a-tu-disposici-n-span5 {
+  color: #000000;
+  font: 400 12px "Inter", sans-serif;
+}
+.por-qu-elegir-eccomerce-variedad-de-plantillas-ofrecemos-una-amplia-variedad-de-plantillas-cuidadosamente-dise-adas-para-satisfacer-tus-necesidades-desde-sitios-web-corporativos-hasta-tiendas-en-l-nea-y-blogs-creativos-personalizaci-n-f-cil-nuestro-intuitivo-editor-te-permite-personalizar-y-modificar-elementos-como-colores-tipograf-a-im-genes-y-m-s-no-se-requieren-conocimientos-t-cnicos-responsive-y-moderno-todas-nuestras-plantillas-son-responsivas-lo-que-significa-que-tu-sitio-se-ver-incre-ble-en-cualquier-dispositivo-desde-computadoras-de-escritorio-hasta-tel-fonos-m-viles-soporte-amigable-estamos-aqu-para-ayudarte-en-cada-paso-del-proceso-si-tienes-alguna-pregunta-o-necesitas-asistencia-nuestro-equipo-de-soporte-amigable-est-a-tu-disposici-n-span6 {
+  color: #000000;
+  font: 400 12px "Inter", sans-serif;
+}
+.por-qu-elegir-eccomerce-variedad-de-plantillas-ofrecemos-una-amplia-variedad-de-plantillas-cuidadosamente-dise-adas-para-satisfacer-tus-necesidades-desde-sitios-web-corporativos-hasta-tiendas-en-l-nea-y-blogs-creativos-personalizaci-n-f-cil-nuestro-intuitivo-editor-te-permite-personalizar-y-modificar-elementos-como-colores-tipograf-a-im-genes-y-m-s-no-se-requieren-conocimientos-t-cnicos-responsive-y-moderno-todas-nuestras-plantillas-son-responsivas-lo-que-significa-que-tu-sitio-se-ver-incre-ble-en-cualquier-dispositivo-desde-computadoras-de-escritorio-hasta-tel-fonos-m-viles-soporte-amigable-estamos-aqu-para-ayudarte-en-cada-paso-del-proceso-si-tienes-alguna-pregunta-o-necesitas-asistencia-nuestro-equipo-de-soporte-amigable-est-a-tu-disposici-n-span7 {
+  color: #000000;
+  font: 400 12px "Inter", sans-serif;
+}
+.por-qu-elegir-eccomerce-variedad-de-plantillas-ofrecemos-una-amplia-variedad-de-plantillas-cuidadosamente-dise-adas-para-satisfacer-tus-necesidades-desde-sitios-web-corporativos-hasta-tiendas-en-l-nea-y-blogs-creativos-personalizaci-n-f-cil-nuestro-intuitivo-editor-te-permite-personalizar-y-modificar-elementos-como-colores-tipograf-a-im-genes-y-m-s-no-se-requieren-conocimientos-t-cnicos-responsive-y-moderno-todas-nuestras-plantillas-son-responsivas-lo-que-significa-que-tu-sitio-se-ver-incre-ble-en-cualquier-dispositivo-desde-computadoras-de-escritorio-hasta-tel-fonos-m-viles-soporte-amigable-estamos-aqu-para-ayudarte-en-cada-paso-del-proceso-si-tienes-alguna-pregunta-o-necesitas-asistencia-nuestro-equipo-de-soporte-amigable-est-a-tu-disposici-n-span8 {
+  color: #000000;
+  font: 400 12px "Inter", sans-serif;
+}
+.presentacion {
+  background: #ffffff;
+  width: 1387px;
+  height: 156px;
+  position: absolute;
+  left: 14px;
+  top: 111px;
+}
+.agrega-la-ubicaci-n-de-tu-audiencia-en-el-post-1 {
+  width: 1387px;
+  height: 153px;
+  position: absolute;
+  left: 0px;
+  top: 1px;
+}
+.bienvenida-o-a-ecommerce-quieres-crear-una-presencia-en-l-nea-impactante-y-nica-sin-la-necesidad-de-ser-un-experta-o-en-dise-o-web-has-llegado-al-lugar-correcto-en-ecommerce-te-ofrecemos-una-amplia-gama-de-plantillas-de-p-ginas-web-listas-para-usar-que-te-permiten-personalizar-y-modificar-elementos-a-tu-gusto {
+  color: #000000;
+  text-align: left;
+  font: 400 12px "Inter", sans-serif;
+  position: absolute;
+  left: 25px;
+  top: 25px;
+  width: 786px;
+  height: 115px;
+}
+.navbar {
+  background: #ffeecf;
+  width: 1415px;
+  height: 44px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.boton-2 {
+  width: 93px;
+  height: 27px;
+  position: static;
+}
+.rectangle-36 {
+  background: #f5f5f5;
+  border-radius: 40px;
+  width: 93px;
+  height: 27px;
+  position: absolute;
+  left: 1272px;
+  top: 8px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.contacto {
+  color: #000000;
+  text-align: center;
+  font: 400 12px "Inter", sans-serif;
+  position: absolute;
+  left: 1290.94px;
+  top: 8px;
+  width: 57.69px;
+  height: 27px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.boton-1 {
+  width: 93px;
+  height: 27px;
+  position: static;
+}
+.rectangle-37 {
+  background: #f5f5f5;
+  border-radius: 40px;
+  width: 93px;
+  height: 27px;
+  position: absolute;
+  left: 1138px;
+  top: 9px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.ejemplos2 {
+  color: #000000;
+  text-align: center;
+  font: 400 12px "Inter", sans-serif;
+  position: absolute;
+  left: 1156.94px;
+  top: 9px;
+  width: 57.69px;
+  height: 27px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.conocenos {
+  width: 106px;
+  height: 27px;
+  position: static;
+}
+.rectangle-38 {
+  background: #f5f5f5;
+  border-radius: 40px;
+  width: 106px;
+  height: 27px;
+  position: absolute;
+  left: 984px;
+  top: 9px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.con-cenos {
+  color: #000000;
+  text-align: center;
+  font: 400 12px "Inter", sans-serif;
+  position: absolute;
+  left: 1005.59px;
+  top: 9px;
+  width: 65.76px;
+  height: 27px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.logo-1 {
+  width: 123px;
+  height: 109px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
